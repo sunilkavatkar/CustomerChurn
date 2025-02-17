@@ -1,0 +1,10 @@
+tensorflow==2.18.0
+numpy
+pandas
+matplotlib
+#seaborn
+streamlit
+tensorboard
+#nltk
+#gensim
+scikit-learn
