@@ -1,7 +1,7 @@
 import streamlit as st
 #import tensorflow as tf
 #from tensorflow import keras
-from sklearn.preprocessing import StandardScaler, LabelEncoder, OneHotEncoder
+#from sklearn.preprocessing import StandardScaler, LabelEncoder, OneHotEncoder
 from tensorflow.keras.models import load_model
 import pickle
 import pandas as pd
