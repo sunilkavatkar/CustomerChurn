@@ -1,5 +1,5 @@
 import streamlit as st
-import tensorflow as tf
+#import tensorflow as tf
 from tensorflow import keras
 from sklearn.preprocessing import StandardScaler, LabelEncoder, OneHotEncoder
 from tensorflow.keras.models import load_model
